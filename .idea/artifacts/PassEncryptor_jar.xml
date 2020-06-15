@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PassEncryptor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PassEncryptor_jar</output-path>
+    <root id="archive" name="PassEncryptor.jar">
+      <element id="module-output" name="PassEncryptor" />
+    </root>
+  </artifact>
+</component>
